@@ -1,6 +1,12 @@
-# Bachelorarbeit 
+# NDC-Topic-Modelling
 
-Ablage für Dokumente, Daten und Notebooks meiner Bachelorarbeit über Topic Modelling mit Nationally Determined Contributions (NDCs)
+## Usage
+A Topic Modelling Notebook that uses LDA to find the main topics in climate papers like NDCs. 
+
+## Data
+
+A compilation of NDCs stored in one CSV file.
+
 
 
 
