@@ -1,7 +1,7 @@
 # NDC-Topic-Modelling
 
 ## Usage
-In the course of my bachelor thesis an unsupervised LDA model was developed, that is able to find the desired number of topics in multiple NDC documents. These documents are the long-term climate strategies and are published by each country. The model gives out some visualisation in form of customized of wordclouds in the theme of the interpreted topic, as the topics are not assignet to a certain topic in the unsupervised model. 
+In the course of my bachelor thesis an unsupervised LDA model was developed, that is able to find the desired number of topics in multiple NDC documents. These documents are the long-term climate strategies and are published by each country. The model gives out some visualisation in form of customized wordclouds in the theme of the interpreted topic, as the topics are not assignet to a certain topic in the unsupervised model. 
 
 ## Data
 
